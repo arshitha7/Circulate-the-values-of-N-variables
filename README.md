@@ -34,4 +34,5 @@ def circulate():
 ![output](<Screenshot from 2023-10-17 14-09-06.png>)
 
 ## Result:
-Thus the python program for circulate the values of n variables is executed successfully
+
+Thus the python program for circulate the values of n variables is executed successfully.
